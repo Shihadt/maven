@@ -4,7 +4,7 @@
 
   <groupId>com.qburst</groupId>
   <artifactId>main-app</artifactId>
-  <version>0.0.3-RELEASE</version>
+  <version>0.1.0-RELEASE</version>
   <packaging>jar</packaging>
 
   <name>main-app</name>
