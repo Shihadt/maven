@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.qburst.main_app.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec <<< FAILURE!
+testApp(com.qburst.main_app.AppTest)  Time elapsed: 0.011 sec  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<...s> but was:<...>
+	at junit.framework.Assert.assertEquals(Assert.java:81)
+	at junit.framework.Assert.assertEquals(Assert.java:87)
+	at com.qburst.main_app.AppTest.testApp(AppTest.java:37)
+
